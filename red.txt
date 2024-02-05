@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=G3SMgnHCs7E 
+
+const api = 'https://api.qrserver.com/v1/create-qr-code/?size=160×160&data=Hello';
+
